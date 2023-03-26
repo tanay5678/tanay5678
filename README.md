@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **tanaykale8390@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-hX649_TiXJNkgEpwfXKOeyl6vc0ULh4/view?usp=share_link](https://drive.google.com/file/d/1-hX649_TiXJNkgEpwfXKOeyl6vc0ULh4/view?usp=share_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/tanay5678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tanay5678" height="30" width="40" /></a>
