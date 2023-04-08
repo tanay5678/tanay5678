@@ -2,6 +2,8 @@
 <h3 align="center">Full-stack web developer with expertise in HTML, CSS, JavaScript, React, and Node.js. Skilled in developing responsive, user-friendly web applications and websites.</h3>
 
 - 🔭 Projects [Weather App](https://weather-app-2acbb.web.app/)
+-              [Netflix App](https://netflix-clone-4c755.web.app/)
+- 
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanay5678?tab=repositories](https://github.com/tanay5678?tab=repositories)
 
