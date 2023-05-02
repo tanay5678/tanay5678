@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tanaykale8390@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZWsuPC4XUaZx4lTMncLsepDTcGS3GGab/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1H9i4HPYjCybnf6HBoDu94vCEDPlDhZ-G/view]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
