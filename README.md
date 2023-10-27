@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack web developer with expertise in HTML, CSS, JavaScript, React, and Node.js. Skilled in developing responsive, user-friendly web applications and websites.</h3>
 
 - 🔭 Project [Weather App](https://weather-app-2acbb.web.app/)
-- 🔭 Project [Netflix App](https://netflix-clone-4c755.web.app/)
+- 🔭 Project [Crypto App](https://cryptoversebytanaykale.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanay5678?tab=repositories](https://github.com/tanay5678?tab=repositories)
 
