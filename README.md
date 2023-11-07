@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanay Kale</h1>
 <h3 align="center">Full-stack web developer with expertise in HTML, CSS, JavaScript, React, and Node.js. Skilled in developing responsive, user-friendly web applications and websites.</h3>
 
+- 🔭 Project [Sushiman](https://sushimanbytanaykale.netlify.app/)
 - 🔭 Project [Weather App](https://weather-app-2acbb.web.app/)
 - 🔭 Project [Crypto App](https://cryptoversebytanaykale.netlify.app/)
 
